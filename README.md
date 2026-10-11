@@ -29,3 +29,4 @@ A classic *Tetris Game* built with Arduino and simulated using Proteus. The game
 <br>
 
 ## Game Preview 🖥️
+<img width="1156" height="720" alt="202610111546" src="https://github.com/user-attachments/assets/b787fc56-7976-468c-ad27-b9ea49f6eb73" />
