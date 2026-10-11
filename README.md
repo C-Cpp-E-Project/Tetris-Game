@@ -25,3 +25,7 @@ A classic *Tetris Game* built with Arduino and simulated using Proteus. The game
 ### ไฟล์ในโปรเจกต์นี้
 * `1.ino` - โค้ดหลักภาษา C/C++ สำหรับ Arduino
 * `1.pdsprj` - ไฟล์จำลองวงจรและฮาร์ดแวร์ในโปรแกรม Proteus
+
+<br>
+
+## Game Preview 🖥️
